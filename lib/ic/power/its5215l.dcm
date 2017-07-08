@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ITS5215L
+D High-side Power Switch
+K Power Switch
+F /home/elliot/electronics/datasheets/ITS5215L.pdf
+$ENDCMP
+#
+#End Doc Library

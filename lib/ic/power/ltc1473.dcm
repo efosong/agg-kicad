@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC1473
+D Dual PowerPath Switch Driver
+F /home/elliot/electronics/datasheets/ltc1473.pdf
+$ENDCMP
+#
+#End Doc Library

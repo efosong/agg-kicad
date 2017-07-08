@@ -1,3 +1,14 @@
+# @efosong's fork of @adamgreig's KiCAD Library
+A few personal extensions to the KiCAD Library. Should work fine if forked, but
+the pdf section of the documents field is 'hardcoded' (by KiCAD) to look for the
+datasheet in my personal datasheet repo (located at
+`/home/elliot/electronics/datasheets` on my computer), and so will not work
+unless you happen to have the same setup as me. This should not affect anything
+else though - the project should be forkable.
+
+Below is the original README.
+---
+
 # @adamgreig's KiCAD Library
 
 This repository contains my collection of KiCAD symbols, footprints,

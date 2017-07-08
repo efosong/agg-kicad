@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EHHD015A0A
+D 5v DC-DC Converter Power Module
+F /home/elliot/electronics/datasheets/EHHD015A0A.pdf
+$ENDCMP
+#
+#End Doc Library

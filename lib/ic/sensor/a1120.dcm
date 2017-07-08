@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A1120
+D Chopper-Stabilized Precision Hall-Effect Switch
+F /home/elliot/electronics/datasheets/A112x.pdf
+$ENDCMP
+#
+#End Doc Library

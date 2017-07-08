@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS2024D
+D 5V Power Distribution Switch
+F /home/elliot/electronics/datasheets/tps2024.pdf
+$ENDCMP
+#
+#End Doc Library
