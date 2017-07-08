@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BTS6133D
+D High Side Power Switch
+F /home/elliot/electronics/datasheets/bts6133d.pdf
+$ENDCMP
+#
+#End Doc Library
